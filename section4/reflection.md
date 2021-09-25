@@ -6,7 +6,7 @@
 
 1. Regarding the work you did around setting intentions in Step 1 of the Pomodoro technique - how did that go? Were you surprised by anything (did you find yourself way more focused than you realized, more distracted that you thought you'd be, estimating times accurately or totally off, etc)?
 
-   I used the tomato timer app and it really did help me to stay more focused while I was working. I realized I get easily distracted or burnt out when there is no end in sight, but thinking to myself "keep going for 10 more minutes, then you can take a breather" kept me much more focused and productive. It was also a lot easier to estimate the time a task would take when I broke down the prework into very small subtasks.
+   I used the tomato timer app and it really did help me to stay more focused while I was working. I realized I get easily distracted or burnt out when there is no end in sight, but thinking to myself "keep going for 10 more minutes, then you can take a breather" kept me much more focused and productive. It was also a lot easier to estimate the time a task would take when I broke down the prework into very small subtasks. For step 1, I set intentions like: section 4 part B reading/notes, objects exercise, methods notes and exercise, classes/instances reading/notes, classProperties exercise, etc. This made it feel like I was working towards a more manageable goal.
 
 1. What is an Object, and how is it different from an Array in Javascript?
 

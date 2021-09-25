@@ -42,7 +42,7 @@ console.log(animals[4]);
 //-------------------
 
 // YOU DO: Declare a variable that will store an an array of at least 4 foods (strings)
-var food = ['avocado', 'egg', 'mango', 'bread'];
+var food = ["avocado", "egg", "mango", "bread"];
 
 // YOU DO: Write code below that will log the number of elements in the array of
 // foods from above.
@@ -50,7 +50,7 @@ console.log(food.length);
 
 // YOU DO: Write code below that uses a method to add "broccoli" to the foods array and
 // log the changed array to verify "broccoli" has been added
-food.push('broccoli');
+food.push("broccoli");
 console.log(food);
 
 // YOU DO: Write code below that removes the last item of food from the foods array and
@@ -61,9 +61,9 @@ console.log(food);
 // YOU DO: Write code to add 3 new foods to the array.
   // There are several ways to do this - choose whichever you'd like!
 // Then, log the changed array to verify the new items have been added
-food.push('apple');
-food.push('cheese');
-food.push('chocolate');
+food.push("apple");
+food.push("cheese");
+food.push("chocolate");
 console.log(food);
 
 
@@ -92,15 +92,15 @@ var posts = ["image at beach", "holiday party", "adorable puppy", "video of cute
 // all from the same one.
 
 // 1: Gmail - if your emails are grouped into different labels/inboxes, there would be a different array for each inbox with a specific set of emails.
-var inbox = ['email1','email2','email3'];
-var starred = ['email4', 'email5'];
-var spam = ['email6','email7'];
+var inbox = ["email1","email2","email3"];
+var starred = ["email4", "email5"];
+var spam = ["email6","email7"];
 
 // 2: Netfilx - For a TV show, all of the episodes are separated into different arrays for each season.
-var season1 = ['S1E1','S1E2','S1E3','S1E4','S1E5'];
+var season1 = ["S1E1","S1E2","S1E3","S1E4","S1E5"];
 
 // 3: Amazon - your shopping cart on the amazon website could be an array. Each time you add an item to your cart, you add a new item to the array.
-var shoppingCart = ['batteries','phone case','book'];
+var shoppingCart = ["batteries","phone case","book"];
 
 
 //-------------------
@@ -125,14 +125,14 @@ var chargerType = "car";
 // Check first condition: percentBatteryLeft is greater than or equal to 15
 if (percentBatteryLeft >= 15) {
 // If first condition is met, print the message 'You can call an uber!' to console
-  console.log('You can call an uber!')
+  console.log("You can call an uber!")
 // If first condition is not met, check second condition: hasCharger is true and chargerType is equal to 'car'
 }  else if (hasCharger && chargerType == "car") {
 // If second condition is met, print the message 'You can call an uber!' to console
-  console.log('You can call an uber!')
+  console.log("You can call an uber!")
 // If first and second conditions are not met, print the message 'Sorry, you can not call an uber...' to console
 } else {
-  console.log('Sorry, you can not call an uber...')
+  console.log("Sorry, you can't call an uber...")
 };
 
 // YOU DO - ANNOTATE: Above each line of your code for this if statement, create a comment.

@@ -64,11 +64,11 @@ getSum(500,1);
 // YOU DO🎈: Write a function that takes in two strings and prints a concatenation
 // of those two strings, for example the arguments could be ("Oscar", "Ruck") and
 // the end result might be "Oscar and Ruck are BFFS".  Then, call that function.
-function favPizza(topping1, topping2) {
+function favoritePizza(topping1, topping2) {
   console.log('My favorite pizza has ' + topping1 + ' and ' + topping2 + ' on it');
 };
 
-favPizza('pepperoni','jalepenos');
+favoritePizza('pepperoni','jalepenos');
 
 
 //-------------------
@@ -83,9 +83,9 @@ Look at the code you wrote for the previous YOU DO🎈 - what did you name the f
 What did you name each parameter, and why?
 
 EXPLAIN:
-I named the function favPizza because it is returning a string that says what your favortie pizza has on it.
+I named the function favoritePizza because it is returning a string that says what your favortie pizza has on it.
 The parameters are both pizza topppings, so I named them topping1 and topping2. topping seems like it might be a little long for
-a parameter name, but it is more clear than using something like top1 and top2, because "top" is a lot more vague. 
+a parameter name, but it is more clear than using something like top1 and top2, because "top" is a lot more vague.
 }, 10);
 
 

@@ -62,4 +62,4 @@ function fizzBuzz(num1, num2, range) {
 //call the fizzBuzz function with the arguments 3, 5, 100
 fizzBuzz(3, 5, 100);
 //call the fizzBuzz function with the arguments 5, 8, 400
-fizzbuzz(5, 8, 400);
+fizzBuzz(5, 8, 400);

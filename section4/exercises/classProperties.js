@@ -66,6 +66,7 @@ class Dog2 {
     this.age = 5;
     this.gender = 'Male';
   }
+
 };
 
 var chocLab = new Dog2();
@@ -78,6 +79,7 @@ class Snack2 {
     this.calories = 250;
     this.type = 'fruit';
   }
+
 };
 
 var apple = new Snack2();
@@ -90,6 +92,7 @@ class Shirt2 {
     this.color = 'blue';
     this.price = 30;
   }
+
 };
 
 var sweater = new Shirt2();
@@ -114,6 +117,7 @@ class Dog3 {
     this.name = name;
     this.isTrained = isTrained;
   }
+
 };
 
 var poodle = new Dog3('bone', 'Wallace', true);
@@ -129,6 +133,7 @@ class Snack3 {
     this.calories = calories;
     this.isHealthy = isHealthy;
   }
+
 };
 
 var oreos = new Snack3(2, 300, false);
@@ -144,6 +149,7 @@ class Shirt3 {
     this.size = size;
     this.pattern = pattern;
   }
+  
 };
 
 var buttonUp = new Shirt3('Target', 'M', 'striped');
